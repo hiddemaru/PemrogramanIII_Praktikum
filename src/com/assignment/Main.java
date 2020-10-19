@@ -26,7 +26,6 @@ public class Main {
 
 
 //  ASSIGNMENT 2 IF ELSE IF
-
 //      Deklarasi
         String nama, poli, r_tunggu = null;
         int nik, id_pasien, no_kk;
